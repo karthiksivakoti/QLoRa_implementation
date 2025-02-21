@@ -1,0 +1,4 @@
+torch
+numpy>=2.2.1
+termcolor>=2.5.0
+fire>=0.7.0
